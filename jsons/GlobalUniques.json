@@ -1,1 +1,5 @@
-
+{
+  "name": "GlobalUniques",
+  "uniques": ["[-50]% [Science] [in all cities]",
+              "[-50]% [Culture] [in all cities]"],
+}
